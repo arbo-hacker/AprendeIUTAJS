@@ -1,5 +1,7 @@
 # AprendeIUTAJS
-Proyecto de tesis para IUTAJS
+Proyecto de tesis para IUTAJS  
+
+Este fue el proyecto con el cual opte al titulo de TSU en Informática en el Instituto Universitario de Tecnología "Antonio José de Sucre"
 
 Para poder probarlo debes configurar un DSN de sistema con el nombre *millonario* siguiendo los siguientes pasos:  
 1. Entrar a *Panel de Control*  
