@@ -9,4 +9,5 @@ Para poder probarlo debes configurar un DSN de sistema con el nombre *millonario
 5. Crear nuevo origen de datos utilizando el driver de Foxpro (Microsoft Visual FoxPro Driver) con los siguientes datos:  
   * Origen de datos: millonario  
   * Ruta: entrar en la ruta donde esta el codigo fuente *AprendeIUTAJS* y luego en la carpeta *data* y seleccionar el archivo *Millonario.dbc*  
+
 6. Posteriormente presionar el boton aceptar y ejecutar tu código guente  
