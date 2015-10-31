@@ -10,4 +10,4 @@ Para poder probarlo debes configurar un DSN de sistema con el nombre *millonario
   * Origen de datos: millonario  
   * Ruta: entrar en la ruta donde esta el codigo fuente *AprendeIUTAJS* y luego en la carpeta *data* y seleccionar el archivo *Millonario.dbc*  
 
-6. Posteriormente presionar el boton aceptar y ejecutar tu código guente  
+Posteriormente presionar el boton aceptar y ejecutar tu código guente  
